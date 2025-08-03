@@ -39,7 +39,7 @@ To start the development server and run the app locally:
 
 npm start
 
-The app will be available at http://localhost:3000.
+The app will be available at  http://localhost:5175/
 
 🎥 Loom Video Walkthrough
 2-Minute Video Explanation
