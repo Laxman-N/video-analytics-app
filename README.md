@@ -23,7 +23,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/video-analytics-app.git
+git clone https://github.com/Laxman-N/video-analytics-app.git
 
 Navigate to the project directory:
 
